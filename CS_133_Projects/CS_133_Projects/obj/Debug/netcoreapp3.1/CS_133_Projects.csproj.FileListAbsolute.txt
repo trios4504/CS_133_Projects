@@ -1,0 +1,12 @@
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.deps.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.runtimeconfig.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.runtimeconfig.dev.json
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.csprojAssemblyReference.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.AssemblyInfo.cs
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.dll
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.pdb
+/Users/thomas/Desktop/Holding/CS 133 Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.genruntimeconfig.cache
